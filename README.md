@@ -17,7 +17,7 @@
 
 انقر فوق أيقونة الامتداد في صفحة فيديو الدورة التدريبية عند تشغيل الفيديو.
 
-![img/coursera-translate.png]()
+![https://i.suar.me/OZdEy/l]()
 
 <div dir="ltr">
 
