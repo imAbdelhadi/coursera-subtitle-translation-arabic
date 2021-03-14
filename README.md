@@ -17,6 +17,8 @@
 
 انقر فوق أيقونة الامتداد في صفحة فيديو الدورة التدريبية عند تشغيل الفيديو.
 
+![https://i.suar.me/OZdEy/l](ترجمة دورات كورسيرا Coursera إلى اللغة العربية)
+
 <div dir="ltr">
 
 # Coursera Subtitle Translation to Arabic
