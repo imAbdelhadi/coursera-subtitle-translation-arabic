@@ -14,6 +14,7 @@
 قم بتنزيل المشروع أو الملف التالي ([نسخة zip](https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic/blob/main/coursera-subtitle-translation-to-arabic.zip?raw=true))، فك الضغط عنه، افتح اعدادات Chrome وفعّل اعدادات وضع المطوّر ثم حدد (Unpack Load).
 
 ## الاستخدام
+> يمكنك قراءة تفاصيل أكثر على مدونتي [ترجمة دورات كورسيرا - Coursera إلى اللغة العربية](https://blog.abdelhadi.org/coursera-cources-translate-to-arabic-language/).
 
 انقر فوق أيقونة الامتداد في صفحة فيديو الدورة التدريبية عند تشغيل الفيديو.
 
