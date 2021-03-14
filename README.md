@@ -2,7 +2,7 @@
 
 <div dir="rtl">
 
-# Coursera ترجمة subtitle إلى العربية
+# ترجمة دورات كورسيرا - Coursera إلى اللغة العربية
 
 قم بتشغيل الترجمة ثنائية اللغة باللغتين العربية والإنجليزية لمقاطع فيديو كورسيرا.
 
@@ -11,7 +11,7 @@
 
 ## التثبيت
 
-قم بتنزيل المشروع أو الملف التالي ([نسخة zip](https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic/coursera-subtitle-translation-to-arabic.zip))، فك الضغط عنه، افتح اعدادات Chrome وفعّل اعدادات وضع المطوّر ثم حدد (Unpack Load).
+قم بتنزيل المشروع أو الملف التالي ([نسخة zip](https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic/blob/main/coursera-subtitle-translation-to-arabic.zip?raw=true))، فك الضغط عنه، افتح اعدادات Chrome وفعّل اعدادات وضع المطوّر ثم حدد (Unpack Load).
 
 ## الاستخدام
 
