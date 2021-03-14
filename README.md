@@ -1,20 +1,21 @@
 > This repository is a fork of [Coursera Subtitle Translatio, made by Tamshadow](https://github.com/tamshadow/coursera-subtitle-translation).
 
 <div dir="rtl">
+
 # Coursera ترجمة subtitle إلى العربية
 
 قم بتشغيل الترجمة ثنائية اللغة باللغتين العربية والإنجليزية لمقاطع فيديو كورسيرا.
 
 * إذا كانت الدورة تحتوي على ترجمة باللغتين العربية والإنجليزية، فافتحها مباشرة.
-* إذا كانت الدورة التدريبية لا تحتوي على ترجمة عربية، فسيتم تلقائيًا ترجمة الترجمة الإنجليزية.
+* إذا كانت الدورة التدريبية لا تحتوي على ترجمة عربية، فسيتم تلقائيًا ترجمة Subtitle إلى الإنجليزية.
 
 ## التثبيت
 
-قم بتنزيل المشروع ، يفتح Chrome الامتداد ويحمل الامتداد غير المضغوط (يجب تشغيل وضع المطور)
+قم بتنزيل المشروع أو الملف التالي ([نسخة zip](https://github.com/imAbdelhadi/coursera-subtitle-translation-arabic/coursera-subtitle-translation-to-arabic.zip))، فك الضغط عنه، افتح اعدادات Chrome وفعّل اعدادات وضع المطوّر ثم حدد (Unpack Load).
 
 ## الاستخدام
 
-انقر فوق أيقونة الامتداد في صفحة فيديو الدورة التدريبية.
+انقر فوق أيقونة الامتداد في صفحة فيديو الدورة التدريبية عند تشغيل الفيديو.
 
 <div dir="ltr">
 
@@ -32,4 +33,3 @@ Download the project, Chrome opens the extension and loads the unzipped extensio
 ## Use
 
 Click the extension icon on the course video page.
-# Ori
