@@ -1,5 +1,6 @@
-<div dir="rtl">
+> This repository is a fork of [Coursera Subtitle Translatio, made by Tamshadow](https://github.com/tamshadow/coursera-subtitle-translation).
 
+<div dir="rtl">
 # Coursera ترجمة subtitle إلى العربية
 
 قم بتشغيل الترجمة ثنائية اللغة باللغتين العربية والإنجليزية لمقاطع فيديو كورسيرا.
@@ -31,3 +32,4 @@ Download the project, Chrome opens the extension and loads the unzipped extensio
 ## Use
 
 Click the extension icon on the course video page.
+# Ori
